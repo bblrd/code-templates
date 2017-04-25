@@ -1,5 +1,5 @@
 # Code Templates
-A repository of various code templates
+## A repository of various code templates
 
 Files included:
 
